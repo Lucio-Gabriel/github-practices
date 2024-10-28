@@ -10,10 +10,8 @@
 <body>
 
 <?php
-
     $nome = 'usuario';
     echo $nome;
-
 ?>
 
 </body>
